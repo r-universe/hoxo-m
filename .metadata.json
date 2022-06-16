@@ -1,0 +1,18 @@
+[
+  {
+    "package": "densratio",
+    "oncran": true
+  },
+  {
+    "package": "dplyr.teradata",
+    "oncran": true
+  },
+  {
+    "package": "githubinstall",
+    "oncran": true
+  },
+  {
+    "package": "magicfor",
+    "oncran": true
+  }
+]
