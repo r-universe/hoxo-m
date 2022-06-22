@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "dplyr.teradata",
-    "oncran": true
-  },
-  {
     "package": "githubinstall",
     "oncran": true
   },
