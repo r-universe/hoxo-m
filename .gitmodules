@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "densratio"]
-	path = densratio
-	url = https://github.com/hoxo-m/densratio
-	shallow = true
-	registered = true
 [submodule "githubinstall"]
 	path = githubinstall
 	url = https://github.com/hoxo-m/githubinstall
+	shallow = true
+	registered = true
+[submodule "densratio"]
+	path = densratio
+	url = https://github.com/hoxo-m/densratio
 	shallow = true
 	registered = true
 [submodule "magicfor"]
