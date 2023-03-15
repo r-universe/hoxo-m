@@ -1,10 +1,10 @@
 [
   {
-    "package": "githubinstall",
+    "package": "densratio",
     "oncran": true
   },
   {
-    "package": "densratio",
+    "package": "githubinstall",
     "oncran": true
   },
   {
