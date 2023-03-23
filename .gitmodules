@@ -18,3 +18,8 @@
 	url = https://github.com/hoxo-m/magicfor
 	shallow = true
 	registered = true
+[submodule "sGMRFmix"]
+	path = sGMRFmix
+	url = https://github.com/cran/sGMRFmix
+	shallow = true
+	registered = true
