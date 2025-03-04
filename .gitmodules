@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "deltatest"]
+	path = deltatest
+	url = https://github.com/hoxo-m/deltatest
 [submodule "densratio"]
 	path = densratio
 	url = https://github.com/hoxo-m/densratio
