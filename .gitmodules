@@ -8,9 +8,6 @@
 [submodule "densratio"]
 	path = densratio
 	url = https://github.com/hoxo-m/densratio
-[submodule "githubinstall"]
-	path = githubinstall
-	url = https://github.com/hoxo-m/githubinstall
 [submodule "magicfor"]
 	path = magicfor
 	url = https://github.com/hoxo-m/magicfor
